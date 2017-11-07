@@ -1,0 +1,1 @@
+First Install then Install package ctr+shift+p then search install then emmet install then wordpress install then autofileName install okay
