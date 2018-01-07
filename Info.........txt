@@ -1,1 +1,19 @@
-First Install then Install package ctr+shift+p then search install then emmet install then wordpress install then autofileName install okay
+First Install then Install package then go to View+show console then give the package sublime text3
+ctr+shift+p 
+then install package by serach install 
+then emmet install 
+then wordpress install 
+then autofileName install 
+
+But licences:
+
+Go to Google and Search by 
+
+sublime text 3 build 3143 license key 
+get the link but we follow it
+
+first: go sublite text 
+then menu 
+help+About Sublime Text (i will take the version number such as 3143 then search the google by the code) and get the code give it
+
+help+Enter licence and press Enter:
