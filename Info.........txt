@@ -17,3 +17,7 @@ then menu
 help+About Sublime Text (i will take the version number such as 3143 then search the google by the code) and get the code give it
 
 help+Enter licence and press Enter:
+
+php Controller ::
+
+go >> performance >> PackageController >> install >> Package Control: Install Package >> SublimLinter-php >> Install
